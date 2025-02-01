@@ -1,0 +1,6 @@
+MLP Hyperparameters:
+# Number of Layers
+# Number of neurons
+# Activation function 
+# Batch size
+#
