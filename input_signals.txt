@@ -1,6 +1,0 @@
-vinp
-vdd
-pd
-temperature
-process
-voltage

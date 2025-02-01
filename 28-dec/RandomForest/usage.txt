@@ -1,0 +1,49 @@
+
+BEFORE ALL PROCESS
+########################
+Total CPUs utilized percentage:7.2
+Total RAM utilized percentage:54.5
+Available memory (Gb):7.177745819091797
+##########################
+AFTER COMBINING FILES
+########################
+Total CPUs utilized percentage:9.0
+Total RAM utilized percentage:56.6
+Available memory (Gb):6.846588134765625
+##########################
+AFTER FETCHING DATA
+########################
+Total CPUs utilized percentage:9.4
+Total RAM utilized percentage:74.7
+Available memory (Gb):4.003902435302734
+##########################
+BEFORE ALL PROCESS
+########################
+Total CPUs utilized percentage:4.2
+Total RAM utilized percentage:42.5
+Available memory (Gb):9.082630157470703
+##########################
+AFTER COMBINING FILES
+########################
+Total CPUs utilized percentage:8.3
+Total RAM utilized percentage:44.5
+Available memory (Gb):8.767765045166016
+##########################
+AFTER FETCHING DATA
+########################
+Total CPUs utilized percentage:7.8
+Total RAM utilized percentage:46.3
+Available memory (Gb):8.476749420166016
+##########################
+AFTER MODEL CREATION
+########################
+Total CPUs utilized percentage:46.6
+Total RAM utilized percentage:46.2
+Available memory (Gb):8.496021270751953
+##########################
+AFTER PREDICTION
+########################
+Total CPUs utilized percentage:8.0
+Total RAM utilized percentage:45.9
+Available memory (Gb):8.545841217041016
+##########################

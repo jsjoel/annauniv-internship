@@ -1,5 +1,0 @@
-2024-12-28 16:56:36,331 Data Processing......
-2024-12-28 16:57:27,346 Data processing completed
-2024-12-28 16:57:46,716 files in train folder combined for modeling
-2024-12-28 16:58:02,080 signals from input file are read sucessfully
-2024-12-28 16:58:02,080 signals from output file are read sucessfully

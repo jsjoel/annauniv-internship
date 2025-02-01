@@ -1,0 +1,12 @@
+Python Scripts performs 
+#model creation#
+#prediction#
+#metrics calculation#
+#graph plot for given signals of TIME DOMAIN.
+
+# instructions before executing script 
+
+1. files used for training should be inside folder named "train".
+2. files used for  testing should be inside folder named "test".
+3. signals which is to be modelled should be entered into output_signals.txt
+4. input signals is to be entered into input_signals.txt
